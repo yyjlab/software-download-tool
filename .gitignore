@@ -1,0 +1,6 @@
+bin/
+obj/
+发布包/
+.vs/
+*.user
+*.suo
